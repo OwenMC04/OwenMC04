@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OwenMC04
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was in the scouts for 6 years!
 
